@@ -25,3 +25,4 @@ for i in 0..<10-1-i
         }
     }
 }
+print(array)
